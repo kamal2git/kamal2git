@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @kamal2git
-- 👀 I’m interested in AI and DS.
-- 🌱 I’m currently learning ML.
-- 💞️ I’m looking to collaborate on Fintech.
-- 📫 How to reach me ...
 
 
 <!---
