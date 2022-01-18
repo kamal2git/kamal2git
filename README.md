@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kamal2git
+- 👋 Hi, I’m @kamal
 
 
 <!---
