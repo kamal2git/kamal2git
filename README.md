@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kamal
+- this account is no more in use
 
 
 <!---
